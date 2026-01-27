@@ -13,11 +13,8 @@ Currently I am a Computer Science and Engineering student @Instituto Superior T�
 
 ### 🎓 Projects
 
-* [B.Sc. CSE]()
+* [B.Sc. CSE](https://github.com/BrunoFontenele/BrunoFontenele/blob/main/bscprojects.md)
 
-
-
-- 📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/bruno-fontenele-6554b1325) 
 <!--
 
 - 🔭 **Currently working on:** My Bachelor's Thesis / [Project Name].
