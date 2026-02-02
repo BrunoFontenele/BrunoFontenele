@@ -9,7 +9,7 @@ It is possible that certain projects include content in Portuguese, given that t
 
 ### 1st Year (24/25)
 
-* 🎮 - Fundamentals of Programming (Python)
+* ♟️ - Fundamentals of Programming (Python)
   * [MNK Game (Project 1)](https://github.com/BrunoFontenele/Jogo-MNK)
   * [Orbito-N (Project 2)](https://github.com/BrunoFontenele/Orbito-n)
 * 🌟 - Logic Programming (Prolog)
