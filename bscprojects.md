@@ -9,10 +9,10 @@ It is possible that certain projects include content in Portuguese, given that t
 
 ### 1st Year (24/25)
 
-* ♟️ - Fundamentals of Programming (Python)
+* ♟️ - Foundations of Programming (Python)
   * [MNK Game (Project 1)](https://github.com/BrunoFontenele/Jogo-MNK)
   * [Orbito-N (Project 2)](https://github.com/BrunoFontenele/Orbito-n)
-* 🌟 - Logic Programming (Prolog)
+* 🌟 - Logic for Programming (Prolog)
   * [Star Battle](https://github.com/BrunoFontenele/Star-Battle)
 * 💉 - Introduction to Algorithms and Data Structures (C)
   * [Vaccine Manager](https://github.com/BrunoFontenele/Vaccine-Manager)
@@ -25,8 +25,12 @@ It is possible that certain projects include content in Portuguese, given that t
 * 📚 - Object-Oriented Programming (Java)
   * [Library Manager](https://github.com/BrunoFontenele/Library-Manager)
 * 🚀 - Analysis and Synthesis of Algorithms (C++/Python)
-  * [Amino Acid Chain (C++)(Project 1)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto1)
-  * [Delivery Service (C++)(Project 2)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto2)
-  * [Championship Forecast (Linear Programming - Python)(Project 3)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto2/)
+  * [Amino Acid Chain (C++) (Project 1)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto1)
+  * [Delivery Service (C++) (Project 2)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto2)
+  * [Championship Forecast (Linear Programming - Python) (Project 3)](https://github.com/BrunoFontenele/ASA-Projetos/tree/main/Projeto2/)
 * 🕹️ - Operating Systems (C - Multithreading/IPC)
   * [PacmanIST](https://github.com/BrunoFontenele/PacmanIST)
+* 📱 - Human-Computer Interaction (Figma/Javascript)
+  * [Recipe Social Network (Figma) (Project 1)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%201)
+  * [Selection in Dense UIs (Javascript) (p5.js) (Project 1)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%202)
+
