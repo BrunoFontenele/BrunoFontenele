@@ -32,5 +32,5 @@ It is possible that certain projects include content in Portuguese, given that t
   * [PacmanIST](https://github.com/BrunoFontenele/PacmanIST)
 * 📱 - Human-Computer Interaction (Figma/Javascript)
   * [Recipe Social Network (Figma) (Project 1)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%201)
-  * [Selection in Dense UIs (Javascript) (p5.js) (Project 1)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%202)
+  * [Selection in Dense UIs (Javascript) (p5.js) (Project 2)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%202)
 
