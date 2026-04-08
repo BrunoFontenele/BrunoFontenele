@@ -17,7 +17,7 @@ It is possible that certain projects include content in Portuguese, given that t
 * 💉 - Introduction to Algorithms and Data Structures (C)
   * [Vaccine Manager](https://github.com/BrunoFontenele/Vaccine-Manager)
 * 🤖 - Introduction to Computer Architecture (Assembly RISC-V)
-  * [Neural Network Classfier](https://github.com/BrunoFontenele/Rede-Neural-IAC)
+  * [Neural Network Classifier](https://github.com/BrunoFontenele/Rede-Neural-IAC)
  
 ### 2nd Year (25/26)
 
