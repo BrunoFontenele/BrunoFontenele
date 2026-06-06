@@ -34,6 +34,6 @@ It is possible that certain projects include content in Portuguese, given that t
   * [Recipe Social Network (Figma) (Project 1)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%201)
   * [Selection in Dense UIs (Javascript) (p5.js) (Project 2)](https://github.com/BrunoFontenele/projetos-ipm/tree/main/Projeto%202)
 * 🔎 - Artificial Intelligence (Python - State Space Search)
-  * [Slitherlink](https://github.com/BrunoFontenele/PacmanIST](https://github.com/BrunoFontenele/IA)
+  * [Slitherlink](https://github.com/BrunoFontenele/IA)
 * 🐘 - Databases (PostgreSQL/Python)
   * [Zoo Database](https://github.com/BrunoFontenele/BD)
