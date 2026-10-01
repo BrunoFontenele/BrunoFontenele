@@ -16,6 +16,7 @@ Currently I am a Computer Science and Engineering student @Instituto Superior TÃ
 ### ðŸŽ“ Projects
 
 * [B.Sc. CSE](https://github.com/BrunoFontenele/BrunoFontenele/blob/main/bscprojects.md)
+* [Exam Management System](https://github.com/BrunoFontenele/EMS)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFontenele&theme=tokyonight&layout=compact)
